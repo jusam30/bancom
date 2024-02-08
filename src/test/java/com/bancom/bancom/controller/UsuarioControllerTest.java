@@ -19,15 +19,14 @@ class UsuarioControllerTest {
     void guardarUsuario() {
         /*
         Usuario usuario = new Usuario();
-
+        usuario.setId(1L);
         usuario.setName("JUAN");
         usuario.setLastName("JUSTINIANO");
         usuario.setCellphone("333333333");
         usuario.setPassword("3333");
-
+        //repositoryUsuario.save(usuario);
         when(repositoryUsuario.save(usuario)).thenReturn(usuario);
         */
-
     }
 
     @Test
